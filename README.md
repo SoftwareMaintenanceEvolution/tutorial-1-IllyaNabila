@@ -18,7 +18,7 @@ I’m fascinated by how software grows, changes, and adapts over time — kind o
 
 ## 📸 That’s Me!
 
-[![Illya Nabila](https://github.com/user-attachments/assets/a7e9a977-e134-4516-90c7-4026171401ef)](https://github.com/user-attachments/assets/a7e9a977-e134-4516-90c7-4026171401ef)
+[![Illya Nabila](image.jpg)
 
 > Always ready to learn something new — one commit at a time 💡
 
