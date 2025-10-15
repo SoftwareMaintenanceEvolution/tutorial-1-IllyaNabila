@@ -1,11 +1,35 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
+# 👋 Introduction
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+Hi there! I’m **Illya Nabila**, a curious and creative Software Engineering student currently exploring the world of **Software Maintenance and Evolution** 🚀
 
-## GitHub Profile
+I’m fascinated by how software grows, changes, and adapts over time — kind of like living organisms that need care and updates to stay healthy 🧩. Through this course, I hope to sharpen my understanding of **modern maintenance strategies**, **legacy system handling**, and how to **keep software sustainable and reliable** for years to come.
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+---
 
+## 🌱 A Bit More About Me
+
+* 💻 Passionate about full-stack development, especially using **Next.js**, **Express**, and **MongoDB**
+* 🤖 Interested in **AI-driven systems**, recommender systems, and green technology 🌿
+* 🧠 I enjoy debugging (most of the time) — it feels like detective work for code!
+* ✨ Currently working on several projects including **B2B Recommender System** and **E-invoice platform**
+* ☕ I run on a steady supply of caffeine and lo-fi beats 🎧
+
+---
+
+## 📸 That’s Me!
+
+[![Illya Nabila](https://github.com/user-attachments/assets/a7e9a977-e134-4516-90c7-4026171401ef)](https://github.com/user-attachments/assets/a7e9a977-e134-4516-90c7-4026171401ef)
+
+> Always ready to learn something new — one commit at a time 💡
+
+---
+
+## 🌐 GitHub Profile
+
+Check out my personal projects and repositories 👉 [**@IllyaNabila**](https://github.com/IllyaNabila)
+
+---
+
+## 🎯 Fun Fact
+
+I believe every old piece of code has a story — and maintaining it is like time-traveling through someone else’s logic ✨
